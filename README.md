@@ -1,4 +1,4 @@
-# hello-world
+# Vue_group_learning
 
 ## Project setup
 ```
